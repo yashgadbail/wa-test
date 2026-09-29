@@ -1,0 +1,5 @@
+auth_info_baileys/
+data/
+dist/
+node_modules/
+.env
